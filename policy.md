@@ -1,6 +1,6 @@
 # NYC Planning Labs: An Open Source Team
 
-[NYC Planning Labs](https://planninglabs.nyc) ("Labs"), a digital services delivery team within the [NYC Department of City Planning](http://www.nyc.gov/planning), develops in-house digital solutions to support the missions of DCP's divisions. This requires flexibility in how we code, with a focus on lowering costs, shortening timelines, and providing great user experiences.
+[NYC Planning Labs](https://planninglabs.nyc) (Labs), a team within the [NYC Department of City Planning](http://www.nyc.gov/planning) (DCP), develops in-house digital solutions to support the missions of DCP's divisions. This requires flexibility in how we code, with a focus on lowering costs, shortening timelines, and providing great user experiences.
 
 The default position of Labs when developing new projects is to:
 
