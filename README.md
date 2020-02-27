@@ -9,7 +9,7 @@ This repository contains the open source policy of [NYC Planning Labs](https://p
 
 This policy was forked from [18F's policy](https://github.com/18F/open-source-policy), which was forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). 18F has guidance on how their team puts this policy into practice. 
 
-**[Read 18F's open source team practices.](practice.md)**
+**[Read 18F's open source team practices.](https://github.com/18F/open-source-policy/blob/master/practice.md)**
 
 ### Public domain
 
